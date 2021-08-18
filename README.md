@@ -1,6 +1,8 @@
+<p>Hi, I'm currently learning <code>x86</code> and ARM64 <code>aarch64</code> assembly language</p>
+<!--
 ### Hi there 👋
 
-<!--
+
 **febnug/febnug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

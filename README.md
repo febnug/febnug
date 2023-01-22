@@ -1,1 +1,1 @@
-<p>i'm dead at tech</p>
+<p>i'm dead at tech and a dumbness kid</p>
